@@ -2,6 +2,9 @@
 
 Courseeker is a web platform that centralizes free online courses from various sources and offers personalized recommendations based on a user's learning preferences. The platform includes a progress tracking system, helping users stay organized and motivated throughout their self-learning journey.
 
+[Watch Demo Here](https://drive.google.com/file/d/1mUQhP0fMn9r7jbYPUNy7XT4L27hcyZiW/view)
+
+
 ## Features
 
 - **Personalized Quiz**: Tailored course recommendations based on topic preferences, complexity, and learning type.
